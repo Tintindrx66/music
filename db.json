@@ -1,0 +1,377 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Jimi Hendrix",
+      "cover": "jimi_hendrix",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "albums": [
+        {
+          "albumId": "a1",
+          "title": "Electric Ladyland",
+          "year": 1968,
+          "cover": "electric-ladyland",
+          "price": 20
+        },
+        {
+          "albumId": "a2",
+          "title": "Experience",
+          "year": 1971,
+          "cover": "experienced",
+          "price": 25
+        },
+        {
+          "albumId": "a3",
+          "title": "Isle of Wright",
+          "year": 1971,
+          "cover": "isle_of_wright",
+          "price": 15
+        },
+        {
+          "albumId": "a4",
+          "title": "Band of Gypsys",
+          "year": 1970,
+          "cover": "band_of_gypsys",
+          "price": 10
+        }
+      ],
+      "genre": "rock, blues"
+    },
+    {
+      "id": 2,
+      "name": "Madonna",
+      "cover": "madonna",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "albums": [
+        {
+          "albumId": "b1",
+          "title": "Like a Virgin",
+          "year": 1984,
+          "cover": "like_a_virgin",
+          "price": 20
+        },
+        {
+          "albumId": "b2",
+          "title": "True Blue",
+          "year": 1986,
+          "cover": "true_blue",
+          "price": 25
+        },
+        {
+          "albumId": "b3",
+          "title": "Erotica",
+          "year": 1994,
+          "cover": "erotica",
+          "price": 15
+        },
+        {
+          "albumId": "b4",
+          "title": "Ray of Light",
+          "year": 1998,
+          "cover": "ray_of_light",
+          "price": 10
+        }
+      ],
+      "genre": "pop"
+    },
+    {
+      "id": 3,
+      "name": "Johnny Cash",
+      "cover": "johnny_cash",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "albums": [
+        {
+          "albumId": "c1",
+          "title": "Ain't No Grave",
+          "year": 2010,
+          "cover": "no_grave",
+          "price": 20
+        },
+        {
+          "albumId": "c2",
+          "title": "Out Among the Stars",
+          "year": 2014,
+          "cover": "among_stars",
+          "price": 25
+        },
+        {
+          "albumId": "c3",
+          "title": "Solitary Man",
+          "year": 2000,
+          "cover": "solitary_man",
+          "price": 15
+        },
+        {
+          "albumId": "c4",
+          "title": "The Man Comes Around",
+          "year": 2002,
+          "cover": "man_comes_around",
+          "price": 10
+        }
+      ],
+      "genre": "pop"
+    },
+    {
+      "id": 4,
+      "name": "Michael Jackson",
+      "cover": "michael_Jackson",
+      "bio": "one of the most significant cultural figures of the 20th century and one of the greatest entertainers in the history of music",
+      "albums": [
+        {
+          "albumId": "d1",
+          "title": "Got to Be There",
+          "year": 1972,
+          "cover": "got_to_Be_There",
+          "price": 20
+        },
+        {
+          "albumId": "d2",
+          "title": "Ben",
+          "year": 1972,
+          "cover": "ben",
+          "price": 25
+        },
+        {
+          "albumId": "d3",
+          "title": "Music & Me",
+          "year": 1973,
+          "cover": "music_and_me",
+          "price": 15
+        },
+        {
+          "albumId": "d4",
+          "title": "Forever Michael",
+          "year": 1976,
+          "cover": "forever_Michael",
+          "price": 56
+        },
+        {
+          "albumId": "d5",
+          "title": "Off the Wall",
+          "year": 1979,
+          "cover": "off_the_wall",
+          "price": 80
+        }
+      ],
+      "genre": "Rock"
+    },
+    {
+      "id": 5,
+      "name": "JJ Lin",
+      "cover": "jj_Lin",
+      "bio": "a Singaporean singer, songwriter, record producer, and actor",
+      "albums": [
+        {
+          "albumId": "d1",
+          "title": "Music Voyager",
+          "year": 2003,
+          "cover": "music_Voyager",
+          "price": 20
+        },
+        {
+          "albumId": "d2",
+          "title": "Haven",
+          "year": 2004,
+          "cover": "haven",
+          "price": 25
+        },
+        {
+          "albumId": "d3",
+          "title": "Cao Cao",
+          "year": 2006,
+          "cover": "cao_cao",
+          "price": 65
+        },
+        {
+          "albumId": "d4",
+          "title": "Westside",
+          "year": 2007,
+          "cover": "westside",
+          "price": 85
+        }
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": 6,
+      "name": "Wang Leehom",
+      "cover": "wang_Leehom",
+      "bio": "a Chinese-American singer-songwriter, actor, producer, and film director",
+      "albums": [
+        {
+          "albumId": "d1",
+          "title": "Unbelievable",
+          "year": 2003,
+          "cover": "unbelievable",
+          "price": 10
+        },
+        {
+          "albumId": "d2",
+          "title": "Shangri La",
+          "year": 2004,
+          "cover": "shangri_La",
+          "price": 35
+        },
+        {
+          "albumId": "d3",
+          "title": "Heroes of Earth",
+          "year": 2005,
+          "cover": "heroes_of_earth",
+          "price": 55
+        },
+        {
+          "albumId": "d4",
+          "title": "Change Me",
+          "year": 2007,
+          "cover": "change_me",
+          "price": 85
+        }
+      ],
+      "genre": "Rock"
+    },
+    {
+      "id": 7,
+      "name": "Jaychou",
+      "cover": "jaychou",
+      "bio": "the new King of Asian Pop",
+      "albums": [
+        {
+          "albumId": "d1",
+          "title": "Jay",
+          "year": 2000,
+          "cover": "jay",
+          "price": 60
+        },
+        {
+          "albumId": "d2",
+          "title": "Fantasy",
+          "year": 2001,
+          "cover": "fantasy",
+          "price": 75
+        },
+        {
+          "albumId": "d3",
+          "title": "The Eight Dimensions",
+          "year": 2002,
+          "cover": "the_Eight_Dimensions",
+          "price": 15
+        },
+        {
+          "albumId": "d4",
+          "title": "Ye Hui Mei",
+          "year": 2003,
+          "cover": "ye_Hui_Mei",
+          "price": 85
+        },
+        {
+          "albumId": "d5",
+          "title": "Common Jasmin Orange",
+          "year": 2004,
+          "cover": "common_Jasmin_Orange",
+          "price": 55
+        },
+        {
+          "albumId": "d6",
+          "title": "Novembers Chopin",
+          "year": 2005,
+          "cover": "novembers_Chopin",
+          "price": 35
+        },
+        {
+          "albumId": "d7",
+          "title": "Still Fantasy",
+          "year": 2006,
+          "cover": "still_Fantasy",
+          "price": 45
+        },
+        {
+          "albumId": "d8",
+          "title": "On the Run!",
+          "year": 2007,
+          "cover": "on_The_Run!",
+          "price": 30
+        },
+        {
+          "albumId": "d9",
+          "title": "Capricorn",
+          "year": 2008,
+          "cover": "capricorn",
+          "price": 60
+        },
+        {
+          "albumId": "d10",
+          "title": "The Era",
+          "year": 2010,
+          "cover": "the_Era",
+          "price": 125
+        },
+        {
+          "albumId": "d11",
+          "title": "Exclamation Mark",
+          "year": 2011,
+          "cover": "exclamation_Mark",
+          "price": 95
+        },
+        {
+          "albumId": "d12",
+          "title": "Opus 12",
+          "year": 2012,
+          "cover": "opus_12",
+          "price": 85
+        },
+        {
+          "albumId": "d13",
+          "title": "Aiyo, Not Bad",
+          "year": 2014,
+          "cover": "aiyo_Not_Bad",
+          "price": 95
+        },
+        {
+          "albumId": "d14",
+          "title": "Jay Chou Bedtime Stories",
+          "year": 2016,
+          "cover": "jay_Chou_Bedtime_Stories",
+          "price": 145
+        }
+      ],
+      "genre": "Rip, Pop"
+    },
+    {
+      "id": 8,
+      "name": "Kenshi Yonezu",
+      "cover": "kenshi_Yonezu",
+      "bio": "a Japanese musician, singer-songwriter, record producer and illustrator who began releasing Vocaloid music under the stage name Hachi (ハチ) in 2009",
+      "albums": [
+        {
+          "albumId": "d1",
+          "title": "Diorama",
+          "year": 2012,
+          "cover": "diorama",
+          "price": 20
+        },
+        {
+          "albumId": "d2",
+          "title": "Yankee",
+          "year": 2014,
+          "cover": "yankee",
+          "price": 45
+        },
+        {
+          "albumId": "d3",
+          "title": "Bremen",
+          "year": 2015,
+          "cover": "bremen",
+          "price": 65
+        },
+        {
+          "albumId": "d4",
+          "title": "Bootleg",
+          "year": 2017,
+          "cover": "bootleg",
+          "price": 80
+        }
+      ],
+      "genre": "Rock"
+    }
+  ]
+}
